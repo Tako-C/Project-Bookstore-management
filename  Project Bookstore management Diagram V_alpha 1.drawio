@@ -477,6 +477,21 @@
         <mxCell id="tPLHAW8lisJyO9_C-A-E-35" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1215" y="58" width="10" height="3" as="geometry" />
         </mxCell>
+        <mxCell id="tPLHAW8lisJyO9_C-A-E-44" value="&lt;b style=&quot;color: rgb(31, 31, 31); font-family: Arial, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Interpreter&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="430" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tPLHAW8lisJyO9_C-A-E-45" value="&lt;b&gt;ItId&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tPLHAW8lisJyO9_C-A-E-44">
+          <mxGeometry x="30" y="30" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPLHAW8lisJyO9_C-A-E-46" value="&lt;b&gt;Name&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tPLHAW8lisJyO9_C-A-E-44">
+          <mxGeometry x="120" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPLHAW8lisJyO9_C-A-E-47" value="Sample" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tPLHAW8lisJyO9_C-A-E-44">
+          <mxGeometry x="120" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tPLHAW8lisJyO9_C-A-E-48" value="it01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tPLHAW8lisJyO9_C-A-E-44">
+          <mxGeometry x="20" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
