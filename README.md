@@ -19,7 +19,7 @@ The schema includes the following tables:
 - [books](#books)
 - [boxsets](#boxsets)
 - [toys](#toys)
-- [Member](#member)
+- [member](#member)
 - [orders](#orders)
 - [company](#company)
 - [branch](#branch)
@@ -28,7 +28,7 @@ The schema includes the following tables:
  ## ER-Diargram
  - This image is an example of a bookstore schema design.
    
-   ![ER-Diargram](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V2.png?raw=true)
+   ![ER-Diargram](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V3.png?raw=true)
    
 
 ## Table Overview
@@ -108,12 +108,13 @@ The `bookstore` schema includes the following tables, each serving a specific pu
 - `toy_quantity`: Quantity of the toy in stock.
 - `producttype_id`: ID of the product type associated with the toy.
 
-### `Member`
+### `member`
 - `member_id`: Unique identifier for the member.
 - `member_firstname`: First name of the member.
 - `member_lastname`: Last name of the member.
 - `member_age`: Age of the member.
 - `member_idcard`: ID card number of the member.
+- `member_phone`: Phone of member .
 
 ### `orders`
 - `order_id`: Unique identifier for the order.
