@@ -28,7 +28,7 @@ The schema includes the following tables:
  ## ER-Diargram
  - This image is an example of a bookstore schema design.
    
-   ![ER-Diargram](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V3.png?raw=true)
+   ![ER-Diargram](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V4.png?raw=true)
    
 
 ## Table Overview
