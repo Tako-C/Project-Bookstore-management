@@ -6,7 +6,7 @@ Welcome to the Bookstore Database project. This database schema is designed to m
 
 
 # Bookstore Database Schema
-![ER](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V4.png?raw=true)
+![ER](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V5.png?raw=true)
 
 
 ## Table of Contents
