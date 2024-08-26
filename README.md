@@ -4,7 +4,10 @@ Welcome to the Bookstore Database project. This database schema is designed to m
 ![Books Kinokuniya](https://insideretail.com.au/wp-content/uploads/2021/01/Books-Kinokuniya.jpg)
 - I want to create a system that replicates the interior of different bookstores. currently available I got inspiration from Kinokuniya Bookstore, which is a famous bookstore with many branches both domestically and abroad.
 
+
 # Bookstore Database Schema
+![ER](https://github.com/Tako-C/Project-Bookstore-management/blob/main/Image/BooksStore-ER-V4.png?raw=true)
+
 
 ## Table of Contents
 - [Database Schema Overview](#database-schema-overview)
@@ -26,7 +29,6 @@ Welcome to the Bookstore Database project. This database schema is designed to m
   - [company](#company)
 
 ## Database Schema Overview
-
 The database is designed to manage various aspects of a book store, including information about books, authors, publishers, promotions, employees, and transactions. The schema provides a comprehensive structure to store and manage data efficiently.
 
 ## Tables
