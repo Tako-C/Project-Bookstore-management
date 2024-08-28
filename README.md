@@ -29,7 +29,7 @@ Welcome to the Bookstore Database project. This database schema is designed to m
   - [company](#company)
 
 ## Database Schema Overview
-The database is designed to manage various aspects of a book store, including information about books, authors, publishers, promotions, employees, and transactions. The schema provides a comprehensive structure to store and manage data efficiently.
+The database is designed to manage various aspects of a bookstore, including information about books, authors, publishers, promotions, employees, and transactions. The schema provides a comprehensive structure to store and manage data efficiently.
 
 ## Tables
 
